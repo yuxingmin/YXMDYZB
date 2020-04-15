@@ -1,7 +1,7 @@
 //
 //  LiveViewController.swift
 //  DYZB
-//
+//yucing
 //  Created by xingmin yu on 2020/4/15.
 //  Copyright © 2020 xingmin yu. All rights reserved.
 //
